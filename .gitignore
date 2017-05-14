@@ -1,0 +1,12 @@
+/.build/
+/.vscode/
+/.vs/
+*/Lisece/
+/ImageToBinary/
+*/Music/
+*/ElectroSkyBox/
+*/SE/
+*.psd
+*.ai
+*.clip
+*.blend1
